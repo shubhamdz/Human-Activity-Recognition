@@ -1,5 +1,4 @@
 # Human-activity-detection
-<img width="100%" src="https://www.androidhive.info/wp-content/uploads/2017/12/android-user-activity-recognition-still-walking-running-driving.jpg">
 
 ## HumanActivityRecognition
 
